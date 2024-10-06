@@ -1,0 +1,18 @@
+﻿  Airline.cpp
+  Airplane.cpp
+  Airport.cpp
+  CargoPlane.cpp
+  CommercialPlane.cpp
+  Company.cpp
+  Employee.cpp
+  main.cpp
+  Passenger.cpp
+  Person.cpp
+  Runway.cpp
+  Generating Code...
+Person.obj : error LNK2001: unresolved external symbol "protected: char * __cdecl Person::allocateAndCopy(char const *)" (?allocateAndCopy@Person@@IEAAPEADPEBD@Z)
+Company.obj : error LNK2001: unresolved external symbol "protected: char * __cdecl Person::allocateAndCopy(char const *)" (?allocateAndCopy@Person@@IEAAPEADPEBD@Z)
+Employee.obj : error LNK2001: unresolved external symbol "protected: char * __cdecl Person::allocateAndCopy(char const *)" (?allocateAndCopy@Person@@IEAAPEADPEBD@Z)
+main.obj : error LNK2001: unresolved external symbol "protected: char * __cdecl Person::allocateAndCopy(char const *)" (?allocateAndCopy@Person@@IEAAPEADPEBD@Z)
+Passenger.obj : error LNK2001: unresolved external symbol "protected: char * __cdecl Person::allocateAndCopy(char const *)" (?allocateAndCopy@Person@@IEAAPEADPEBD@Z)
+C:\Users\itayi\Downloads\AirportManager\AirportManager\x64\Debug\AirportManager.exe : fatal error LNK1120: 1 unresolved externals
