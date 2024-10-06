@@ -1,0 +1,1 @@
+starting to change all the unnecessary default values, starting from changing the TaxiCompany.TripResArr to TripRes**. then changing all the ctors that create instances instead of pointer array.

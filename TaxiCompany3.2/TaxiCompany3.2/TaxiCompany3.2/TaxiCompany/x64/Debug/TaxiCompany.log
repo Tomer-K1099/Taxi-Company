@@ -1,0 +1,47 @@
+﻿  TaxiCompany.cpp
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\Address.h(33,62): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'TaxiCompany.cpp')
+  
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\Date.h(34,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'TaxiCompany.cpp')
+  
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.h(57,21): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'TaxiCompany.cpp')
+  
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.h(58,50): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'TaxiCompany.cpp')
+  
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(50,28): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(50,18): warning C5043: 'TaxiCompany::addTaxi': exception specification does not match previous declaration
+      C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.h(50,9):
+      see declaration of 'TaxiCompany::addTaxi'
+  
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(113,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(119,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(165,32): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(174,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(187,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(205,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(212,32): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(218,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(293,30): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(334,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(313,65): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(382,59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(439,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.cpp(445,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\Address.h(33,62): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\Date.h(34,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.h(57,21): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany.h(58,50): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+  TaxiCompany.vcxproj -> C:\Users\Admin\source\repos\TaxiCompany3.2\TaxiCompany3.2\TaxiCompany3.2\x64\Debug\TaxiCompany.exe
