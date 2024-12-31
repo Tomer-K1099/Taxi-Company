@@ -8,7 +8,7 @@ The project is divided into 3 parts: (3 branches)<br>
 This project contributed to our skill to perform code analysis and critical thinking, exposing us to a real-world scenario as well as concluding the knowledge of C++ we acquired throught the course. <br>
 
 ### Key Features:
--Relevant use of Constants
+-Relevant use of Constants<br>
 -Inheritance, Multiple Inheritance and Diamond Inheritance<br>
 -Distinguishing between the use of references, pointers, and arrays of pointers<br>
 -Implementation of the LinkedList data structure.<br>
