@@ -1,7 +1,7 @@
 # Taxi-Company
 A taxi company managment program written in C++.
 This is a simple console program that showcases the basic principles of C++ and object-oriented programming including: constants, constructors & destructors, operators, inheritance, STL and more.<br>
-The project divided into 3 parts: (3 branches)<br>
+The project is divided into 3 parts: (3 branches)<br>
 **Part 1** - Come up with a project idea and write out only its header files, and hand them out the other couples in the class. We wrote headers for an Airport Manager program.<br>
 **Part 2** - Take another couple's header files and project, and encode its .cpp files without using any STL or templates.<br>
 **Part 3** - Implement a Linked List data structure as a Template, Change all the arrays within part2 code to either strings, lists or linked lists. In addition, introduce various design patterns into the code.<br>
@@ -16,3 +16,10 @@ This project contributed to our skill to perform code analysis and critical thin
 -Utilization of STL including string, and list.<br>
 -Design Patterns including Singleton, Facade and Factory.<br>
 
+### To Run This Program:
+1. Download the ZIP file.
+2. Extract the files to your computer.
+3. Locate the TaxiCompany.sln and open it using Visual Studio.
+4. Run the program.
+
+The program runs a hardcoded version of a taxi company that includes some drivers, customers, taxis, and rides. The user may watch the company's details by navigating via the main menu. The user may temper with the details, with basic CRUD functionality. 
