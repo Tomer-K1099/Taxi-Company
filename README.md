@@ -17,9 +17,10 @@ This project contributed to our skill to perform code analysis and critical thin
 -Design Patterns including Singleton, Facade and Factory.<br>
 
 ### To Run This Program:
-1. Download the ZIP file.
-2. Extract the files to your computer.
-3. Locate the TaxiCompany.sln and open it using Visual Studio.
-4. Run the program.
+1. Navigate to the branch "Part 3 -- TaxiCompany" on Github
+2. Download the ZIP file.3
+3. Extract the files to your computer.
+4. Locate the TaxiCompany.sln and open it using Visual Studio.
+5. Run the program.
 
-The program runs a hardcoded version of a taxi company that includes some drivers, customers, taxis, and rides. The user may watch the company's details by navigating via the main menu. The user may temper with the details, with basic CRUD functionality. 
+The program runs a hardcoded version of a taxi company that includes some drivers, customers, taxis, and rides. The user may watch the company's details by entering the desired function via the menu. The user may temper with the details, with basic CRUD functionality. 
